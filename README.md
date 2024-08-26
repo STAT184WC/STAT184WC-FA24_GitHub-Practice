@@ -47,6 +47,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Vishal T Lilani   | Section 001       | VishalLilani11       | https://github.com/VishalLilani11/STAT184WC-FA24_GitHub-Practice|
 
 
 <br>
