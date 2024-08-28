@@ -45,7 +45,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 # Class GitHub Table 
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
-|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 
 
