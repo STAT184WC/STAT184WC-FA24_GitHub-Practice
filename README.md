@@ -47,6 +47,6 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
-
+| Elizabeth Shaw    | Section 001       | Liz1219              | https://github.com/Liz1219/musical-lamp |
 
 <br>
