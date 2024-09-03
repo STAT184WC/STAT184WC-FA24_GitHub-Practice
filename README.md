@@ -49,6 +49,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
 | Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Jongmyeong Wee    | Section 001       | JasonWee2024         | https://github.com/JasonWee2024/First-Work|
 | Jordan Hurt       | Section 001       | jordanmhurt          | https://github.com/jordanmhurt/jordan|
 | Vishal T Lilani   | Section 001       | VishalLilani11       | https://github.com/VishalLilani11/STAT184WC-FA24_GitHub-Practice|
 | Chris Weathers    | Section 001       | Christopherw2124     | https://github.com/Christopherw2124/WeathersDomain |
