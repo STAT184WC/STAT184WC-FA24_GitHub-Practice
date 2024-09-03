@@ -48,6 +48,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 | Vishvendra Singh  | Section 001       | not-Vxsh             | https://github.com/not-Vxsh/STAT184WC-FA24_GitHub-Practice |
+| Stuart Becker     | Section 001       | sxb6419              | https://github.com/sxb6419/test      |
 
 
 <br>
