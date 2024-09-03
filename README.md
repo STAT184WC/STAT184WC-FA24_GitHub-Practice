@@ -46,6 +46,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 | Vishvendra Singh  | Section 001       | not-Vxsh             | https://github.com/not-Vxsh/STAT184WC-FA24_GitHub-Practice |
 | Stuart Becker     | Section 001       | sxb6419              | https://github.com/sxb6419/test      |
