@@ -46,8 +46,17 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
+| Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 | Vishal T Lilani   | Section 001       | VishalLilani11       | https://github.com/VishalLilani11/STAT184WC-FA24_GitHub-Practice|
+| Chris Weathers    | Section 001       | Christopherw2124     | https://github.com/Christopherw2124/WeathersDomain |
+| Vishvendra Singh  | Section 001       | not-Vxsh             | https://github.com/not-Vxsh/STAT184WC-FA24_GitHub-Practice |
+| Stuart Becker     | Section 001       | sxb6419              | https://github.com/sxb6419/test      |
 
 
 <br>
+
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
+|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Steve Dang        | Section 001       | dangsteve            | https://github.com/dangsteve/STAT184 |
