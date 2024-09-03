@@ -44,10 +44,29 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
-|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo                          |  
+|:------------------|:------------------|:---------------------|:---------------------------------------------------|  
+| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test                   |
+| Jesse Quijano     | Section 001       | SoccerField24x7      | https://github.com/SoccerField24x7/STAT184WC-FA24  |
+| Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
+| Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
+| Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
-|:------------------|:------------------|:---------------------|:-------------------------------------|
 | Garrett Trott     | Section 001       | Garrett-Trott        | https://github.com/Garrett-Trott/Test|
+| Elizabeth Shaw    | Section 001       | Liz1219              | https://github.com/Liz1219/musical-lamp |
+| Rob Walter        | Section 001       | wltrrb               | https://github.com/wltrrb/repowltr   |
+| Rishi Chada       | Section 001       | RishiChada10         | https://github.com/RishiChada10/STAT184WC-FA24_GitHub-Practice |
+| Mya Mooney        | Section 001       | Mya-Mooney           | https://github.com/Mya-Mooney/STAT184WC-FA24_GitHub-Practice |
+| Jongmyeong Wee    | Section 001       | JasonWee2024         | https://github.com/JasonWee2024/First-Work|
+| Jordan Hurt       | Section 001       | jordanmhurt          | https://github.com/jordanmhurt/jordan|
+| Vishal T Lilani   | Section 001       | VishalLilani11       | https://github.com/VishalLilani11/STAT184WC-FA24_GitHub-Practice|
+| Chris Weathers    | Section 001       | Christopherw2124     | https://github.com/Christopherw2124/WeathersDomain |
+| Vishvendra Singh  | Section 001       | not-Vxsh             | https://github.com/not-Vxsh/STAT184WC-FA24_GitHub-Practice |
+| Stuart Becker     | Section 001       | sxb6419              | https://github.com/sxb6419/test      |
+
 
 <br>
+
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
+|:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Steve Dang        | Section 001       | dangsteve            | https://github.com/dangsteve/STAT184 |
