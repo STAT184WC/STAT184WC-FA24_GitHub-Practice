@@ -44,10 +44,6 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo                          |  
-|:------------------|:------------------|:---------------------|:---------------------------------------------------|  
-| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test                   |
-| Jesse Quijano     | Section 001       | SoccerField24x7      | https://github.com/SoccerField24x7/STAT184WC-FA24  |
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
