@@ -46,6 +46,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
+| Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
 | Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
