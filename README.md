@@ -44,9 +44,10 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo                          |  
-|:------------------|:------------------|:---------------------|:---------------------------------------------------|  
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
+|:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test                   |
+| Tianhao Wang      | Section 001       | 18TH26               | https://github.com/18Th26/test       |
 | Jesse Quijano     | Section 001       | SoccerField24x7      | https://github.com/SoccerField24x7/STAT184WC-FA24  |
 | Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
