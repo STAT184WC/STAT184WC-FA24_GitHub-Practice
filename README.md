@@ -52,6 +52,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
 | Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Elizabeth Brandon | Section 001       | thesagelycoder       | https://github.com/thesagelycoder/psupractice)|
 | Parsha Barnhart   | Section 001       | parshabarnhart       | https://github.com/parshabarnhart/test|
 | Christian Tierno  | Section 001       | ctierno28            | https://github.com/ctierno28/practice|
 | Andrew Yurkanin   | Section 001       | yurkaninandrew       | https://github.com/yurkaninandrew/Practice-Assignment |
