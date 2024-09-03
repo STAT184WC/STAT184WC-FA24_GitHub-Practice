@@ -52,6 +52,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
 | Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Garrett Trott     | Section 001       | Garrett-Trott        | https://github.com/Garrett-Trott/Test|
 | Elizabeth Shaw    | Section 001       | Liz1219              | https://github.com/Liz1219/musical-lamp |
 | Rob Walter        | Section 001       | wltrrb               | https://github.com/wltrrb/repowltr   |
 | Rishi Chada       | Section 001       | RishiChada10         | https://github.com/RishiChada10/STAT184WC-FA24_GitHub-Practice |
