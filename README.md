@@ -45,15 +45,13 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 # Class GitHub Table 
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo                          |  
-|:------------------|:------------------|:---------------------|:---------------------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test                   |
 | Jesse Quijano     | Section 001       | SoccerField24x7      | https://github.com/SoccerField24x7/STAT184WC-FA24  |
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo            |  
-|:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Randall Gaertner  | Section 001       | rag5872              | https://github.com/rag5872/stat184   |
 | Xu Wang           | Section 001       | Xu-crypto            |[ https://github.com/sayaliph/test ](https://github.com/Xu-crypto/STAT184WC-FA24_GitHub-Practice)    |
 | Mohammad Anabtawi     | Section 001       | maa7504             | https://github.com/maa7504/STAT184WC-FA24_GitHub-Practice     |
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
+| Rob Walter        | Section 001       | wltrrb               | https://github.com/wltrrb/repowltr   |
 | Rishi Chada       | Section 001       | RishiChada10         | https://github.com/RishiChada10/STAT184WC-FA24_GitHub-Practice |
 | Mya Mooney        | Section 001       | Mya-Mooney           | https://github.com/Mya-Mooney/STAT184WC-FA24_GitHub-Practice |
 | Jongmyeong Wee    | Section 001       | JasonWee2024         | https://github.com/JasonWee2024/First-Work|
