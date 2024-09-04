@@ -73,7 +73,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Chris Weathers    | Section 001       | Christopherw2124     | https://github.com/Christopherw2124/WeathersDomain |
 | Vishvendra Singh  | Section 001       | not-Vxsh             | https://github.com/not-Vxsh/STAT184WC-FA24_GitHub-Practice |
 | Stuart Becker     | Section 001       | sxb6419              | https://github.com/sxb6419/test      |
-
+|Rose Lloyd         | Section 001       | RSLloyd              | https://github.com/RSLloyd/Stat-184-Setup
 
 <br>
 
